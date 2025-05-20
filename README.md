@@ -15,4 +15,4 @@
   - SAN/NAS, backup, archiving, performance tuning, DR...
 
 **LinkedIn Profile:**  
-[Michael Chorvath on LinkedIn](https://www.linkedin.com/in/michaelchorvath)
+[Michael Horvath on LinkedIn](https://www.linkedin.com/in/michaelchorvath)
