@@ -1,16 +1,17 @@
-## Hi there 👋
+Thank you for sharing your background and LinkedIn profile! Here’s a concise summary of your professional expertise based on what you provided:
 
-<!--
-**cincypiper/cincypiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Profession/Main Area of Expertise:**
+- Infrastructure Administration
+- Data Storage (management, provisioning, troubleshooting, optimization)
+- Data Center Management and Operations
 
-Here are some ideas to get you started:
+**Top Technical Skills:**
+- Shell Scripting: PowerShell, BASH, Perl, Python
+- Infrastructure Discovery (mapping, inventory, automation)
+- Unstructured Data Management
+- All aspects of Data Storage (SAN/NAS, backup, archiving, performance tuning, DR, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**LinkedIn Profile:**  
+[Michael Chorvath on LinkedIn](https://www.linkedin.com/in/michaelchorvath)
+
+If you need help crafting a resume, GitHub profile, technical blog, or want suggestions for projects or learning paths tailored to your expertise, just let me know!
