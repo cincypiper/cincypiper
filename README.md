@@ -1,5 +1,3 @@
-Thank you for sharing your background and LinkedIn profile! Here’s a concise summary of your professional expertise based on what you provided:
-
 **Profession/Main Area of Expertise:**
 - Infrastructure Administration
 - Data Storage (management, provisioning, troubleshooting, optimization)
