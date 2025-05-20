@@ -11,5 +11,3 @@
 
 **LinkedIn Profile:**  
 [Michael Chorvath on LinkedIn](https://www.linkedin.com/in/michaelchorvath)
-
-If you need help crafting a resume, GitHub profile, technical blog, or want suggestions for projects or learning paths tailored to your expertise, just let me know!
